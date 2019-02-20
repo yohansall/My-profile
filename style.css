@@ -1,0 +1,41 @@
+div{background:#99AEB1;                         
+padding: 30px;                            
+border-radius: 4px;                        
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+margin:100px; 
+padding: 30px;
+}
+
+#stdiv{
+	margin-bottom:10px;
+
+}
+#nddiv{
+	text-align: center;
+}
+
+#neymar10{
+	text-align:center;
+	background:none;
+}
+
+h1{
+	color:black;
+
+}
+
+
+
+
+a{
+	color:#1C9CEA;
+	font-size:25px;
+}
+
+#bp{
+	font-size:40px;
+}
+
+ol{
+	color:white;
+}
